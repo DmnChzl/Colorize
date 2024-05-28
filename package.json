@@ -1,0 +1,19 @@
+{
+  "name": "@dmnchzl/colorize",
+  "version": "0.1.0",
+  "description": "Utilities for colors and luminance",
+  "author": "Damien Chazoule <dmnchzl@pm.me>",
+  "repository": "https://github.com/dmnchzl/colorize.git",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: No Test Specified Yet\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "hex",
+    "luminance",
+    "rgb",
+    "utils"
+  ],
+  "license": "WTFPL"
+}
