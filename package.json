@@ -1,6 +1,6 @@
 {
   "name": "@dmnchzl/colorize",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Utilities for colors and luminance",
   "author": "Damien Chazoule <dmnchzl@pm.me>",
   "repository": "https://github.com/dmnchzl/colorize.git",
